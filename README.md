@@ -1,5 +1,4 @@
-# mbk2103.github.io
-<!DOCTYPE html>
+
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
